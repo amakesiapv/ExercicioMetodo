@@ -35,6 +35,7 @@ public class Mensagem {
         }
     }
 
+
     public static void mensagemBomDia() {
         System.out.println("Bom dia!");
     }
